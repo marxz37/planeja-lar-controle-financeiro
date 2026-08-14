@@ -1,0 +1,24 @@
+cff-version: 1.2.0
+message: "Se você utilizar este projeto, cite-o usando estes metadados."
+title: "Planeja Lar — Controle Financeiro Familiar"
+authors:
+  - family-names: "Dumbá"
+    given-names: "Marx Bento"
+  - family-names: "Souza"
+    given-names: "Caíque"
+  - family-names: "Faria"
+    given-names: "Hugo"
+  - family-names: "Lopes"
+    given-names: "Izabelle"
+  - family-names: "Santos"
+    given-names: "Lorrayne"
+  - family-names: "Augustus"
+    given-names: "Tarsis"
+keywords:
+  - "controle financeiro"
+  - "planejamento familiar"
+  - "javascript"
+repository-code: "https://github.com/marxz37/planeja-lar-controle-financeiro"
+license: CC-BY-4.0
+version: 1.0.0
+date-released: 2026-08-14
